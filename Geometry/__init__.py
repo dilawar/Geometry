@@ -13,7 +13,7 @@ __author__ = '\n'.join(["Erik O'Shaughnessy",
                         'erik.oshaughnessy@gmail.com',
                         'https://github.com/JnyJny/Geometry'])
 
-__version__ = "0.0.23"
+__version__ = "0.0.24"
 
 from .exceptions import (ZeroSlope, InfiniteSlope, CollinearPoints,
                          InfiniteLength, ParallelLines, CollinearLines)

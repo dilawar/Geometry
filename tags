@@ -1,0 +1,738 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/0+git~c77db554/
+A	Geometry/graph.py	/^    def A(self):$/;"	m	class:Edge
+A	Geometry/line.py	/^    def A(self):$/;"	m	class:Line
+A	Geometry/line.py	/^    def A(self, newValue):$/;"	m	class:Line
+A	Geometry/rectangle.py	/^    def A(self):$/;"	m	class:Rectangle
+A	Geometry/rectangle.py	/^    def A(self, newA):$/;"	m	class:Rectangle
+A	Geometry/triangle.py	/^    def A(self):$/;"	m	class:Triangle
+A	Geometry/triangle.py	/^    def A(self, newValue):$/;"	m	class:Triangle
+AB	Geometry/line.py	/^    def AB(self):$/;"	m	class:Line
+AB	Geometry/line.py	/^    def AB(self, newValues):$/;"	m	class:Line
+AB	Geometry/triangle.py	/^    def AB(self):$/;"	m	class:Triangle
+AB	Geometry/triangle.py	/^    def AB(self, iterable):$/;"	m	class:Triangle
+AB	Geometry/triangle2.py	/^    def AB(self):$/;"	m	class:Triangle
+AB	Geometry/triangle2.py	/^    def AB(self, iterable):$/;"	m	class:Triangle
+ABC	Geometry/triangle.py	/^    def ABC(self):$/;"	m	class:Triangle
+ABC	Geometry/triangle.py	/^    def ABC(self, iterable):$/;"	m	class:Triangle
+ABC	Geometry/triangle2.py	/^    def ABC(self):$/;"	m	class:Triangle
+ABC	Geometry/triangle2.py	/^    def ABC(self, iterable):$/;"	m	class:Triangle
+AC	Geometry/triangle.py	/^    def AC(self):$/;"	m	class:Triangle
+AC	Geometry/triangle.py	/^    def AC(self, iterable):$/;"	m	class:Triangle
+AC	Geometry/triangle2.py	/^    def AC(self):$/;"	m	class:Triangle
+AC	Geometry/triangle2.py	/^    def AC(self, iterable):$/;"	m	class:Triangle
+AUTOPEP8	Makefile	/^AUTOPEP8 = autopep8$/;"	m
+AUTOPEP8_FLAGS	Makefile	/^AUTOPEP8_FLAGS = -ria$/;"	m
+B	Geometry/graph.py	/^    def B(self):$/;"	m	class:Edge
+B	Geometry/line.py	/^    def B(self):$/;"	m	class:Line
+B	Geometry/line.py	/^    def B(self, newValue):$/;"	m	class:Line
+B	Geometry/rectangle.py	/^    def B(self):$/;"	m	class:Rectangle
+B	Geometry/rectangle.py	/^    def B(self, newB):$/;"	m	class:Rectangle
+B	Geometry/triangle.py	/^    def B(self):$/;"	m	class:Triangle
+B	Geometry/triangle.py	/^    def B(self, newValue):$/;"	m	class:Triangle
+BA	Geometry/triangle.py	/^    def BA(self):$/;"	m	class:Triangle
+BA	Geometry/triangle.py	/^    def BA(self, iterable):$/;"	m	class:Triangle
+BA	Geometry/triangle2.py	/^    def BA(self):$/;"	m	class:Triangle
+BA	Geometry/triangle2.py	/^    def BA(self, iterable):$/;"	m	class:Triangle
+BC	Geometry/triangle.py	/^    def BC(self):$/;"	m	class:Triangle
+BC	Geometry/triangle.py	/^    def BC(self, iterable):$/;"	m	class:Triangle
+BC	Geometry/triangle2.py	/^    def BC(self):$/;"	m	class:Triangle
+BC	Geometry/triangle2.py	/^    def BC(self, iterable):$/;"	m	class:Triangle
+C	Geometry/rectangle.py	/^    def C(self):$/;"	m	class:Rectangle
+C	Geometry/rectangle.py	/^    def C(self, newC):$/;"	m	class:Rectangle
+C	Geometry/triangle.py	/^    def C(self):$/;"	m	class:Triangle
+C	Geometry/triangle.py	/^    def C(self, newValue):$/;"	m	class:Triangle
+CA	Geometry/triangle.py	/^    def CA(self):$/;"	m	class:Triangle
+CA	Geometry/triangle.py	/^    def CA(self, iterable):$/;"	m	class:Triangle
+CA	Geometry/triangle2.py	/^    def CA(self):$/;"	m	class:Triangle
+CA	Geometry/triangle2.py	/^    def CA(self, iterable):$/;"	m	class:Triangle
+CB	Geometry/triangle.py	/^    def CB(self):$/;"	m	class:Triangle
+CB	Geometry/triangle.py	/^    def CB(self, iterable):$/;"	m	class:Triangle
+CB	Geometry/triangle2.py	/^    def CB(self):$/;"	m	class:Triangle
+CB	Geometry/triangle2.py	/^    def CB(self, iterable):$/;"	m	class:Triangle
+Circle	Geometry/ellipse.py	/^class Circle(Ellipse):$/;"	c
+CircleAttributeGettersTestCase	Geometry/tests/test_circle.py	/^class CircleAttributeGettersTestCase(unittest.TestCase):$/;"	c
+CircleAttributeSettersTestCase	Geometry/tests/test_circle.py	/^class CircleAttributeSettersTestCase(unittest.TestCase):$/;"	c
+CircleClassmethodsTestCase	Geometry/tests/test_circle.py	/^class CircleClassmethodsTestCase(unittest.TestCase):$/;"	c
+CircleInitializationTestCase	Geometry/tests/test_circle.py	/^class CircleInitializationTestCase(unittest.TestCase):$/;"	c
+CircleInstanceMethodsTestCase	Geometry/tests/test_circle.py	/^class CircleInstanceMethodsTestCase(unittest.TestCase):$/;"	c
+CollinearLines	Geometry/exceptions.py	/^class CollinearLines(CollinearPoints):$/;"	c
+CollinearPoints	Geometry/exceptions.py	/^class CollinearPoints(Exception):$/;"	c
+D	Geometry/rectangle.py	/^    def D(self):$/;"	m	class:Rectangle
+D	Geometry/rectangle.py	/^    def D(self, newD):$/;"	m	class:Rectangle
+Edge	Geometry/graph.py	/^class Edge(Segment):$/;"	c
+Ellipse	Geometry/ellipse.py	/^class Ellipse(object):$/;"	c
+EllipseTestCase	Geometry/tests/test_ellipse.py	/^class EllipseTestCase(unittest.TestCase):$/;"	c
+Epsilon	Geometry/constants.py	/^Epsilon = float_info.epsilon$/;"	v
+ExceededEpsilonError	Geometry/exceptions.py	/^class ExceededEpsilonError(Exception):$/;"	c
+FLAKE8	Makefile	/^FLAKE8 = flake8$/;"	m
+FLAKE8_IGN	Makefile	/^FLAKE8_IGN = F401,F403$/;"	m
+FloatMultiProperty	Geometry/propgen.py	/^def FloatMultiProperty(keys, default=0.0, docs=None,$/;"	f
+FloatProperty	Geometry/propgen.py	/^def FloatProperty(name, default=0.0, readonly=False, docs=None):$/;"	f
+GIT	Makefile	/^GIT = git$/;"	m
+Geometry - Python Geometry Package	README.md	/^# Geometry - Python Geometry Package$/;"	c
+Graph	Geometry/graph.py	/^class Graph(object):$/;"	c
+GraphTestCase	Geometry/tests/test_graph.py	/^class GraphTestCase(unittest.TestCase):$/;"	c
+Half_Pi	Geometry/constants.py	/^Half_Pi = 1.5707963267948966$/;"	v
+InfiniteLength	Geometry/exceptions.py	/^class InfiniteLength(Exception):$/;"	c
+InfiniteSlope	Geometry/exceptions.py	/^class InfiniteSlope(Exception):$/;"	c
+Line	Geometry/line.py	/^class Line(collections.Mapping):$/;"	c
+LineTestCase	Geometry/tests/test_line.py	/^class LineTestCase(unittest.TestCase):$/;"	c
+MAJOR	Makefile	/^MAJOR = 0$/;"	m
+MAKEFILE	Makefile	/^MAKEFILE= Makefile$/;"	m
+MINOR	Makefile	/^MINOR = 0$/;"	m
+MV	Makefile	/^MV = mv$/;"	m
+MultiObjectProperty	Geometry/propgen.py	/^def MultiObjectProperty(keys, default, all_keys):$/;"	f
+MutablePointSequence	Geometry/point.py	/^class MutablePointSequence(PointSequence,collections.MutableSequence):$/;"	c
+MutablePolygon	Geometry/polygon.py	/^class MutablePolygon(Polygon, MutablePointSequence):$/;"	c
+NEWMAJOR	Makefile	/^NEWMAJOR = `expr $(MAJOR) + 1`$/;"	m
+NEWMINOR	Makefile	/^NEWMINOR = `expr $(MINOR) + 1`$/;"	m
+NEWPOINT	Makefile	/^NEWPOINT = `expr $(POINT) + 1`$/;"	m
+NOSE	Makefile	/^NOSE = nosetests$/;"	m
+NOSEFLAGS	Makefile	/^NOSEFLAGS = --with-coverage --cover-tests --cover-html$/;"	m
+Node	Geometry/graph.py	/^class Node(Point):$/;"	c
+NodeTestCase	Geometry/tests/test_graph.py	/^class NodeTestCase(unittest.TestCase):$/;"	c
+O	Geometry/rectangle.py	/^    def O(self):$/;"	m	class:Rectangle
+O	Geometry/rectangle.py	/^    def O(self, newO):$/;"	m	class:Rectangle
+PIP	Makefile	/^PIP = pip3$/;"	m
+PIP_FLAGS	Makefile	/^PIP_FLAGS := ${PIP_FLAGS} --index-url http:\/\/${PYPI}.python.org\/pypi$/;"	m
+PIP_FLAGS	Makefile	/^PIP_FLAGS := ${PIP_FLAGS} --proxy=$(HTTPS_PROXY)$/;"	m
+PIP_FLAGS	Makefile	/^PIP_FLAGS := ${PIP_FLAGS} --trusted-host ${PYPI}.python.org$/;"	m
+PIP_FLAGS	Makefile	/^PIP_FLAGS := --verbose$/;"	m
+PKG_INIT	Makefile	/^PKG_INIT = ${PKG_ROOT}\/__init__.py$/;"	m
+PKG_ROOT	Makefile	/^PKG_ROOT = ${TARGET}$/;"	m
+POINT	Makefile	/^POINT = 24$/;"	m
+PYPI	Makefile	/^PYPI= testpypi$/;"	m
+PYSETUP	Makefile	/^PYSETUP = ${PYTHON} ${SETUP}$/;"	m
+PYTHON	Makefile	/^PYTHON = python3$/;"	m
+ParallelLines	Geometry/exceptions.py	/^class ParallelLines(Exception):$/;"	c
+Point	Geometry/point.py	/^class Point(collections.Mapping):$/;"	c
+PointSequence	Geometry/point.py	/^class PointSequence(collections.Sequence):$/;"	c
+PointTestCase	Geometry/tests/test_point.py	/^class PointTestCase(unittest.TestCase):$/;"	c
+Polygon	Geometry/polygon.py	/^class Polygon(PointSequence):$/;"	c
+QVERSION	Makefile	/^QVERSION = "'${VERSION}'"$/;"	m
+README	Makefile	/^README = README.md$/;"	m
+RM	Makefile	/^RM = rm$/;"	m
+Ray	Geometry/line.py	/^class Ray(Line):$/;"	c
+RayTestCase	Geometry/tests/test_line.py	/^class RayTestCase(unittest.TestCase):$/;"	c
+Rectangle	Geometry/rectangle.py	/^class Rectangle(object):$/;"	c
+RectangleTestCase	Geometry/tests/test_rectangle.py	/^class RectangleTestCase(unittest.TestCase):$/;"	c
+SED	Makefile	/^SED = sed$/;"	m
+SETUP	Makefile	/^SETUP = setup.py$/;"	m
+Segment	Geometry/line.py	/^class Segment(Line):$/;"	c
+SegmentTestCase	Geometry/tests/test_line.py	/^class SegmentTestCase(unittest.TestCase):$/;"	c
+Sphere	Geometry/ellipse.py	/^class Sphere(Circle):$/;"	c
+Sqrt_3	Geometry/constants.py	/^Sqrt_3 = 1.7320508075688772$/;"	v
+TARGET	Makefile	/^TARGET = Geometry$/;"	m
+TMPFILES	Makefile	/^TMPFILES= VERSION dist build ${TARGET}.egg-info cover$/;"	m
+Triangle	Geometry/triangle.py	/^class Triangle(object):$/;"	c
+Triangle	Geometry/triangle2.py	/^class Triangle(Polygon):$/;"	c
+TriangleTestCase	Geometry/tests/test_triangle.py	/^class TriangleTestCase(unittest.TestCase):$/;"	c
+Two_Pi	Geometry/constants.py	/^Two_Pi = 6.283185307179586$/;"	v
+UPDTINIT	Makefile	/^UPDTINIT = 's\/__version__.*=.*\/__version__ = ${QVERSION}\/'$/;"	m
+UPDTRDME	Makefile	/^UPDTRDME = 's\/Version: .*\/Version: ${VERSION}\/'$/;"	m
+VERSION	Makefile	/^VERSION = ${MAJOR}.${MINOR}.${POINT}$/;"	m
+VERSION_FILE	Makefile	/^VERSION_FILE = VERSION$/;"	m
+ZeroSlope	Geometry/exceptions.py	/^class ZeroSlope(Exception):$/;"	c
+__abs__	Geometry/point.py	/^    def __abs__(self):$/;"	m	class:Point
+__add__	Geometry/point.py	/^    def __add__(self, other):$/;"	m	class:MutablePointSequence
+__add__	Geometry/point.py	/^    def __add__(self, other):$/;"	m	class:Point
+__all__	Geometry/__init__.py	/^__all__ = ['Point', 'PointSequence', 'MutablePointSequence',$/;"	v
+__all__	Geometry/tests/__init__.py	/^__all__ = ['PointTestCase',$/;"	v
+__and__	Geometry/point.py	/^    def __and__(self, other):$/;"	m	class:Point
+__author__	Geometry/__init__.py	/^__author__ = '\\n'.join(["Erik O'Shaughnessy",$/;"	v
+__bool__	Geometry/point.py	/^    def __bool__(self):$/;"	m	class:Point
+__call__	Geometry/line.py	/^    def __call__(self, *args, **kwds):$/;"	m	class:Line
+__call__	Geometry/point.py	/^    def __call__(self, *args, **kwds):$/;"	m	class:Point
+__call__	Geometry/point.py	/^    def __call__(self, *args, **kwds):$/;"	m	class:PointSequence
+__call__	Geometry/triangle.py	/^    def __call__(self, *args, **kwds):$/;"	m	class:Triangle
+__ceil__	Geometry/point.py	/^    def __ceil__(self):$/;"	m	class:Point
+__contains__	Geometry/ellipse.py	/^    def __contains__(self, other):$/;"	m	class:Circle
+__contains__	Geometry/ellipse.py	/^    def __contains__(self, other):$/;"	m	class:Ellipse
+__contains__	Geometry/graph.py	/^    def __contains__(self, other):$/;"	m	class:Graph
+__contains__	Geometry/line.py	/^    def __contains__(self, other):$/;"	m	class:Line
+__contains__	Geometry/line.py	/^    def __contains__(self, other):$/;"	m	class:Segment
+__contains__	Geometry/line.py	/^    def __contains__(self, point):$/;"	m	class:Ray
+__contains__	Geometry/point.py	/^    def __contains__(self, point):$/;"	m	class:PointSequence
+__contains__	Geometry/polygon.py	/^    def __contains__(self, point):$/;"	m	class:Polygon
+__contains__	Geometry/rectangle.py	/^    def __contains__(self, other):$/;"	m	class:Rectangle
+__contains__	Geometry/triangle.py	/^    def __contains__(self, point):$/;"	m	class:Triangle
+__delattr__	Geometry/point.py	/^    def __delattr__(self, attr):$/;"	m	class:PointSequence
+__delhash__	Geometry/point.py	/^    def __delhash__(self):$/;"	m	class:Point
+__delitem__	Geometry/point.py	/^    def __delitem__(self, key):$/;"	m	class:MutablePointSequence
+__eq__	Geometry/ellipse.py	/^    def __eq__(self, other):$/;"	m	class:Ellipse
+__eq__	Geometry/graph.py	/^    def __eq__(self, other):$/;"	m	class:Graph
+__eq__	Geometry/line.py	/^    def __eq__(self, other):$/;"	m	class:Ray
+__eq__	Geometry/line.py	/^    def __eq__(self, other):$/;"	m	class:Segment
+__eq__	Geometry/point.py	/^    def __eq__(self, other):$/;"	m	class:Point
+__eq__	Geometry/point.py	/^    def __eq__(self,other):$/;"	m	class:PointSequence
+__eq__	Geometry/rectangle.py	/^    def __eq__(self, other):$/;"	m	class:Rectangle
+__eq__	Geometry/triangle.py	/^    def __eq__(self, other):$/;"	m	class:Triangle
+__floor__	Geometry/point.py	/^    def __floor__(self):$/;"	m	class:Point
+__floordiv__	Geometry/point.py	/^    def __floordiv__(self, other):$/;"	m	class:Point
+__getattr__	Geometry/point.py	/^    def __getattr__(self, attr):$/;"	m	class:PointSequence
+__getitem__	Geometry/line.py	/^    def __getitem__(self, key):$/;"	m	class:Line
+__getitem__	Geometry/point.py	/^    def __getitem__(self, key):$/;"	m	class:Point
+__getitem__	Geometry/point.py	/^    def __getitem__(self, key):$/;"	m	class:PointSequence
+__getitem__	Geometry/triangle.py	/^    def __getitem__(self, key):$/;"	m	class:Triangle
+__hash__	Geometry/ellipse.py	/^    def __hash__(self):$/;"	m	class:Ellipse
+__hash__	Geometry/graph.py	/^    def __hash__(self):$/;"	m	class:Edge
+__hash__	Geometry/point.py	/^    def __hash__(self):$/;"	m	class:Point
+__hash__	Geometry/point.py	/^    def __hash__(self):$/;"	m	class:PointSequence
+__iadd__	Geometry/point.py	/^    def __iadd__(self, other):$/;"	m	class:Point
+__iand__	Geometry/point.py	/^    def __iand__(self, other):$/;"	m	class:Point
+__ifloordiv__	Geometry/point.py	/^    def __ifloordiv__(self, other):$/;"	m	class:MutablePointSequence
+__ifloordiv__	Geometry/point.py	/^    def __ifloordiv__(self, other):$/;"	m	class:Point
+__ilshift__	Geometry/point.py	/^    def __ilshift__(self, other):$/;"	m	class:Point
+__imod__	Geometry/point.py	/^    def __imod__(self, other):$/;"	m	class:Point
+__imul__	Geometry/point.py	/^    def __imul__(self, other):$/;"	m	class:MutablePointSequence
+__imul__	Geometry/point.py	/^    def __imul__(self, other):$/;"	m	class:Point
+__init	Geometry/exceptions.py	/^    def __init(self, x, y, epsilon):$/;"	m	class:ExceededEpsilonError	file:
+__init__	Geometry/ellipse.py	/^    def __init__(self, center=None, radius=1.0):$/;"	m	class:Circle
+__init__	Geometry/ellipse.py	/^    def __init__(self, center=None, x_radius=1, y_radius=1, z_radius=0):$/;"	m	class:Ellipse
+__init__	Geometry/graph.py	/^    def __init__(self, nodes=None, edges=None):$/;"	m	class:Graph
+__init__	Geometry/line.py	/^    def __init__(self, *args, **kwds):$/;"	m	class:Line
+__init__	Geometry/point.py	/^    def __init__(self, *args, **kwds):$/;"	m	class:Point
+__init__	Geometry/point.py	/^    def __init__(self,*args,**kwds):$/;"	m	class:PointSequence
+__init__	Geometry/rectangle.py	/^    def __init__(self, origin=None, width=1, height=1, theta=0):$/;"	m	class:Rectangle
+__init__	Geometry/triangle.py	/^    def __init__(self, *args, **kwds):$/;"	m	class:Triangle
+__init__	Geometry/triangle2.py	/^    def __init__(self, *args, **kwds):$/;"	m	class:Triangle
+__invert__	Geometry/point.py	/^    def __invert__(self):$/;"	m	class:Point
+__ior__	Geometry/point.py	/^    def __ior__(self, other):$/;"	m	class:Point
+__ipow__	Geometry/point.py	/^    def __ipow__(self, other, modulus=None):$/;"	m	class:Point
+__irshift__	Geometry/point.py	/^    def __irshift__(self, other):$/;"	m	class:Point
+__isub__	Geometry/point.py	/^    def __isub__(self, other):$/;"	m	class:MutablePointSequence
+__isub__	Geometry/point.py	/^    def __isub__(self, other):$/;"	m	class:Point
+__iter__	Geometry/line.py	/^    def __iter__(self):$/;"	m	class:Line
+__iter__	Geometry/point.py	/^    def __iter__(self):$/;"	m	class:Point
+__iter__	Geometry/point.py	/^    def __iter__(self):$/;"	m	class:PointSequence
+__iter__	Geometry/triangle.py	/^    def __iter__(self):$/;"	m	class:Triangle
+__itruediv__	Geometry/point.py	/^    def __itruediv__(self, other):$/;"	m	class:MutablePointSequence
+__itruediv__	Geometry/point.py	/^    def __itruediv__(self, other):$/;"	m	class:Point
+__ixor__	Geometry/point.py	/^    def __ixor__(self, other):$/;"	m	class:Point
+__len__	Geometry/graph.py	/^    def __len__(self):$/;"	m	class:Graph
+__len__	Geometry/line.py	/^    def __len__(self):$/;"	m	class:Line
+__len__	Geometry/point.py	/^    def __len__(self):$/;"	m	class:Point
+__len__	Geometry/point.py	/^    def __len__(self):$/;"	m	class:PointSequence
+__len__	Geometry/triangle.py	/^    def __len__(self):$/;"	m	class:Triangle
+__lshift__	Geometry/point.py	/^    def __lshift__(self, other):$/;"	m	class:Point
+__mod__	Geometry/point.py	/^    def __mod__(self, other):$/;"	m	class:Point
+__mul__	Geometry/point.py	/^    def __mul__(self, other):$/;"	m	class:Point
+__neg__	Geometry/point.py	/^    def __neg__(self):$/;"	m	class:Point
+__or__	Geometry/point.py	/^    def __or__(self, other):$/;"	m	class:Point
+__path__	Geometry/__init__.py	/^    __path__ = extend_path(__path__, __name__)$/;"	v
+__pos__	Geometry/point.py	/^    def __pos__(self):$/;"	m	class:Point
+__pow__	Geometry/point.py	/^    def __pow__(self, other, modulus=None):$/;"	m	class:Point
+__radd__	Geometry/point.py	/^    def __radd__(self, other):$/;"	m	class:Point
+__rand__	Geometry/point.py	/^    def __rand__(self, other):$/;"	m	class:Point
+__repr__	Geometry/ellipse.py	/^    def __repr__(self):$/;"	m	class:Ellipse
+__repr__	Geometry/graph.py	/^    def __repr__(self):$/;"	m	class:Graph
+__repr__	Geometry/line.py	/^    def __repr__(self):$/;"	m	class:Line
+__repr__	Geometry/point.py	/^    def __repr__(self):$/;"	m	class:Point
+__repr__	Geometry/point.py	/^    def __repr__(self):$/;"	m	class:PointSequence
+__repr__	Geometry/rectangle.py	/^    def __repr__(self):$/;"	m	class:Rectangle
+__repr__	Geometry/triangle.py	/^    def __repr__(self):$/;"	m	class:Triangle
+__reversed__	Geometry/point.py	/^    def __reversed__(self):$/;"	m	class:PointSequence
+__rfloordiv__	Geometry/point.py	/^    def __rfloordiv__(self, other):$/;"	m	class:Point
+__rlshift__	Geometry/point.py	/^    def __rlshift__(self, other):$/;"	m	class:Point
+__rmod__	Geometry/point.py	/^    def __rmod__(self, other):$/;"	m	class:Point
+__rmul__	Geometry/point.py	/^    def __rmul__(self, other):$/;"	m	class:Point
+__ror__	Geometry/point.py	/^    def __ror__(self, other):$/;"	m	class:Point
+__round__	Geometry/point.py	/^    def __round__(self, n=0):$/;"	m	class:Point
+__rpow__	Geometry/point.py	/^    def __rpow__(self, other, modulus=None):$/;"	m	class:Point
+__rrshift__	Geometry/point.py	/^    def __rrshift__(self, other):$/;"	m	class:Point
+__rshift__	Geometry/point.py	/^    def __rshift__(self, other):$/;"	m	class:Point
+__rsub__	Geometry/point.py	/^    def __rsub__(self, other):$/;"	m	class:Point
+__rtruediv__	Geometry/point.py	/^    def __rtruediv__(self, other):$/;"	m	class:Point
+__rxor__	Geometry/point.py	/^    def __rxor__(self, other):$/;"	m	class:Point
+__setattr__	Geometry/point.py	/^    def __setattr__(self, attr, value):$/;"	m	class:Point
+__setattr__	Geometry/point.py	/^    def __setattr__(self, attr, value):$/;"	m	class:PointSequence
+__setitem__	Geometry/line.py	/^    def __setitem__(self, key, value):$/;"	m	class:Line
+__setitem__	Geometry/point.py	/^    def __setitem__(self, key, newValue):$/;"	m	class:Point
+__setitem__	Geometry/point.py	/^    def __setitem__(self, key, value):$/;"	m	class:MutablePointSequence
+__setitem__	Geometry/triangle.py	/^    def __setitem__(self, key, newValue):$/;"	m	class:Triangle
+__str__	Geometry/ellipse.py	/^    def __str__(self):$/;"	m	class:Ellipse
+__str__	Geometry/exceptions.py	/^    def __str__(self):$/;"	m	class:ExceededEpsilonError
+__str__	Geometry/graph.py	/^    def __str__(self):$/;"	m	class:Graph
+__str__	Geometry/line.py	/^    def __str__(self):$/;"	m	class:Line
+__str__	Geometry/point.py	/^    def __str__(self):$/;"	m	class:Point
+__str__	Geometry/point.py	/^    def __str__(self):$/;"	m	class:PointSequence
+__str__	Geometry/rectangle.py	/^    def __str__(self):$/;"	m	class:Rectangle
+__str__	Geometry/triangle.py	/^    def __str__(self):$/;"	m	class:Triangle
+__sub__	Geometry/point.py	/^    def __sub__(self, other):$/;"	m	class:Point
+__truediv__	Geometry/point.py	/^    def __truediv__(self, other):$/;"	m	class:Point
+__trunc__	Geometry/point.py	/^    def __trunc__(self):$/;"	m	class:Point
+__version__	Geometry/__init__.py	/^__version__ = "0.0.23"$/;"	v
+__xor__	Geometry/point.py	/^    def __xor__(self, other):$/;"	m	class:Point
+_binary_	Geometry/point.py	/^    def _binary_(self, other, func, inplace=False):$/;"	m	class:Point
+_convert	Geometry/point.py	/^    def _convert(cls, other, ignoreScalars=False):$/;"	m	class:Point
+_keyToIndex	Geometry/point.py	/^    def _keyToIndex(self,key):$/;"	m	class:PointSequence
+_keyToLabel	Geometry/point.py	/^    def _keyToLabel(self, key):$/;"	m	class:PointSequence
+_keys	Geometry/point.py	/^    _keys = 'xyz'$/;"	v	class:Point
+_labels	Geometry/point.py	/^    _labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'$/;"	v	class:PointSequence
+_unary_	Geometry/point.py	/^    def _unary_(self, func, inplace=False):$/;"	m	class:Point
+a	Geometry/ellipse.py	/^    def a(self):$/;"	m	class:Circle
+a	Geometry/ellipse.py	/^    def a(self):$/;"	m	class:Ellipse
+a	Geometry/triangle.py	/^    def a(self):$/;"	m	class:Triangle
+a	Geometry/triangle2.py	/^    def a(self):$/;"	m	class:Triangle
+a_neg	Geometry/ellipse.py	/^    def a_neg(self):$/;"	m	class:Circle
+a_neg	Geometry/ellipse.py	/^    def a_neg(self):$/;"	m	class:Ellipse
+all	Makefile	/^all:$/;"	t
+alpha	Geometry/line.py	/^    def alpha(self):$/;"	m	class:Ray
+alpha	Geometry/triangle.py	/^    def alpha(self):$/;"	m	class:Triangle
+alpha	Geometry/triangle2.py	/^    def alpha(self):$/;"	m	class:Triangle
+altitudes	Geometry/triangle.py	/^    def altitudes(self):$/;"	m	class:Triangle
+altitudes	Geometry/triangle2.py	/^    def altitudes(self):$/;"	m	class:Triangle
+angles	Geometry/triangle.py	/^    def angles(self):$/;"	m	class:Triangle
+angles	Geometry/triangle2.py	/^    def angles(self):$/;"	m	class:Triangle
+append	Geometry/point.py	/^    def append(self, point):$/;"	m	class:MutablePointSequence
+area	Geometry/ellipse.py	/^    def area(self):$/;"	m	class:Circle
+area	Geometry/rectangle.py	/^    def area(self):$/;"	m	class:Rectangle
+area	Geometry/triangle.py	/^    def area(self):$/;"	m	class:Triangle
+area	Geometry/triangle2.py	/^    def area(self):$/;"	m	class:Triangle
+assertAlmostEqual	Geometry/tests/test_triangle.py	/^    def assertAlmostEqual(self, test_value, known_value):$/;"	m	class:TriangleTestCase
+assertAlmostNotEqual	Geometry/tests/test_triangle.py	/^    def assertAlmostNotEqual(self, test_value, known_value):$/;"	m	class:TriangleTestCase
+assertCoordinatesEqual	Geometry/tests/test_point.py	/^    def assertCoordinatesEqual(self, p, values, msg=None):$/;"	m	class:PointTestCase
+assertEpsilonEqual	Geometry/tests/test_point.py	/^    def assertEpsilonEqual(self, test_value, known_value):$/;"	m	class:PointTestCase
+assertIsLine	Geometry/tests/test_line.py	/^    def assertIsLine(self, l, msg=None):$/;"	m	class:LineTestCase
+assertIsOrigin	Geometry/tests/test_point.py	/^    def assertIsOrigin(self, p, msg=None):$/;"	m	class:PointTestCase
+assertIsPoint	Geometry/tests/test_point.py	/^    def assertIsPoint(self, p):$/;"	m	class:PointTestCase
+assertIsTriangle	Geometry/tests/test_triangle.py	/^    def assertIsTriangle(self, obj):$/;"	m	class:TriangleTestCase
+assertLinesEqual	Geometry/tests/test_line.py	/^    def assertLinesEqual(self, p, q, msg=None):$/;"	m	class:LineTestCase
+assertPointsEqual	Geometry/tests/test_point.py	/^    def assertPointsEqual(self, a, b):$/;"	m	class:PointTestCase
+assertTriangleVerticesEqual	Geometry/tests/test_triangle.py	/^    def assertTriangleVerticesEqual(self, triangle, vertices):$/;"	m	class:TriangleTestCase
+autopep8	Makefile	/^autopep8:$/;"	t
+b	Geometry/ellipse.py	/^    def b(self):$/;"	m	class:Circle
+b	Geometry/ellipse.py	/^    def b(self):$/;"	m	class:Ellipse
+b	Geometry/triangle.py	/^    def b(self):$/;"	m	class:Triangle
+b	Geometry/triangle2.py	/^    def b(self):$/;"	m	class:Triangle
+b_neg	Geometry/ellipse.py	/^    def b_neg(self):$/;"	m	class:Circle
+b_neg	Geometry/ellipse.py	/^    def b_neg(self):$/;"	m	class:Ellipse
+bdist	Makefile	/^bdist:$/;"	t
+beta	Geometry/line.py	/^    def beta(self):$/;"	m	class:Ray
+beta	Geometry/triangle.py	/^    def beta(self):$/;"	m	class:Triangle
+beta	Geometry/triangle2.py	/^    def beta(self):$/;"	m	class:Triangle
+bump_major	Makefile	/^bump_major:$/;"	t
+bump_minor	Makefile	/^bump_minor:$/;"	t
+bump_point	Makefile	/^bump_point:$/;"	t
+c	Geometry/triangle.py	/^    def c(self):$/;"	m	class:Triangle
+c	Geometry/triangle2.py	/^    def c(self):$/;"	m	class:Triangle
+ccw	Geometry/point.py	/^    def ccw(self, b, c, axis='z'):$/;"	m	class:Point
+ccw	Geometry/rectangle.py	/^    def ccw(self):$/;"	m	class:Rectangle
+ccw	Geometry/triangle.py	/^    def ccw(self):$/;"	m	class:Triangle
+ccw	Geometry/triangle2.py	/^    def ccw(self):$/;"	m	class:Triangle
+center	Geometry/ellipse.py	/^    def center(self):$/;"	m	class:Ellipse
+center	Geometry/ellipse.py	/^    def center(self, newValue):$/;"	m	class:Ellipse
+center	Geometry/rectangle.py	/^    def center(self):$/;"	m	class:Rectangle
+center	Geometry/rectangle.py	/^    def center(self, newCenter):$/;"	m	class:Rectangle
+centroid	Geometry/polygon.py	/^    def centroid(self):$/;"	m	class:Polygon
+centroid	Geometry/triangle.py	/^    def centroid(self):$/;"	m	class:Triangle
+cg	Geometry/graph.py	/^    def cg(self):$/;"	m	class:Graph
+circumcenter	Geometry/triangle.py	/^    def circumcenter(self):$/;"	m	class:Triangle
+circumcenter	Geometry/triangle2.py	/^    def circumcenter(self):$/;"	m	class:Triangle
+circumcircle	Geometry/triangle.py	/^    def circumcircle(self):$/;"	m	class:Triangle
+circumcircle	Geometry/triangle2.py	/^    def circumcircle(self):$/;"	m	class:Triangle
+circumcircleForTriangle	Geometry/ellipse.py	/^    def circumcircleForTriangle(cls, triangle):$/;"	m	class:Circle
+circumfrence	Geometry/ellipse.py	/^    def circumfrence(self):$/;"	m	class:Circle
+circumradius	Geometry/triangle.py	/^    def circumradius(self):$/;"	m	class:Triangle
+circumradius	Geometry/triangle2.py	/^    def circumradius(self):$/;"	m	class:Triangle
+circumscribingRectangle	Geometry/ellipse.py	/^    def circumscribingRectangle(cls, rectangle):$/;"	m	class:Circle
+circumscribingTriangle	Geometry/ellipse.py	/^    def circumscribingTriangle(cls, triangle):$/;"	m	class:Circle
+clean	Makefile	/^clean:$/;"	t
+clear	Geometry/point.py	/^    def clear(self):$/;"	m	class:MutablePointSequence
+commit	Makefile	/^commit:$/;"	t
+congruent	Geometry/triangle.py	/^    def congruent(self, other):$/;"	m	class:Triangle
+congruent	Geometry/triangle2.py	/^    def congruent(self, other):$/;"	m	class:Triangle
+connect	Geometry/graph.py	/^    def connect(self, doDisconnect=True):$/;"	m	class:Graph
+containsPoint	Geometry/rectangle.py	/^    def containsPoint(self, point, Zorder=False):$/;"	m	class:Rectangle
+count	Geometry/point.py	/^    def count(self, point):$/;"	m	class:PointSequence
+coverage	Makefile	/^coverage:$/;"	t
+cross	Geometry/point.py	/^    def cross(self, other):$/;"	m	class:Point
+degreesBetween	Geometry/line.py	/^    def degreesBetween(self, other):$/;"	m	class:Line
+diameter	Geometry/ellipse.py	/^    def diameter(self):$/;"	m	class:Circle
+disconnect	Geometry/graph.py	/^    def disconnect(self):$/;"	m	class:Graph
+distance	Geometry/point.py	/^    def distance(self, other=None):$/;"	m	class:Point
+distanceFromPoint	Geometry/line.py	/^    def distanceFromPoint(self, point):$/;"	m	class:Line
+distanceSquared	Geometry/point.py	/^    def distanceSquared(self, other=None):$/;"	m	class:Point
+doesIntersect	Geometry/ellipse.py	/^    def doesIntersect(self, other):$/;"	m	class:Circle
+doesIntersect	Geometry/line.py	/^    def doesIntersect(self, other):$/;"	m	class:Line
+doesIntersect	Geometry/line.py	/^    def doesIntersect(self, other):$/;"	m	class:Ray
+doesIntersect	Geometry/triangle.py	/^    def doesIntersect(self, other):$/;"	m	class:Triangle
+dot	Geometry/point.py	/^    def dot(self, other):$/;"	m	class:Point
+download_url	setup.py	/^download_url = 'https:\/\/github.com\/JnyJny\/Geometry\/archive\/{}.tar.gz'$/;"	v
+draw	Geometry/graph.py	/^    def draw(self, surface, nodeColor=(0, 255, 0),$/;"	m	class:Graph
+drawEdges	Geometry/graph.py	/^    def drawEdges(self, surface, color):$/;"	m	class:Graph
+drawNodes	Geometry/graph.py	/^    def drawNodes(self, surface, color):$/;"	m	class:Graph
+e	Geometry/ellipse.py	/^    def e(self):$/;"	m	class:Ellipse
+eccentricity	Geometry/ellipse.py	/^    def eccentricity(self):$/;"	m	class:Ellipse
+edges	Geometry/graph.py	/^    def edges(self):$/;"	m	class:Graph
+edges	Geometry/polygon.py	/^    def edges(self):$/;"	m	class:Polygon
+epsilon_set	Geometry/propgen.py	/^            def epsilon_set(v):$/;"	f	function:FloatProperty.setf	file:
+equilateral	Geometry/triangle.py	/^    def equilateral(cls, origin=None, side=1):$/;"	m	class:Triangle
+extend	Geometry/point.py	/^    def extend(self, iterable):$/;"	m	class:MutablePointSequence
+f	Geometry/ellipse.py	/^    def f(self):$/;"	m	class:Ellipse
+f0	Geometry/ellipse.py	/^    def f0(self):$/;"	m	class:Ellipse
+f1	Geometry/ellipse.py	/^    def f1(self):$/;"	m	class:Ellipse
+flake8	Makefile	/^flake8:$/;"	t
+flip	Geometry/line.py	/^    def flip(self):$/;"	m	class:Line
+flipX	Geometry/rectangle.py	/^    def flipX(self):$/;"	m	class:Rectangle
+flipY	Geometry/rectangle.py	/^    def flipY(self):$/;"	m	class:Rectangle
+fn	Geometry/point.py	/^        fn = lambda k: (self[k] >= min(a[k], b[k])) and ($/;"	f	member:Point.isBetween	file:
+foci	Geometry/ellipse.py	/^    def foci(self):$/;"	m	class:Ellipse
+focus0	Geometry/ellipse.py	/^    def focus0(self):$/;"	m	class:Ellipse
+focus1	Geometry/ellipse.py	/^    def focus1(self):$/;"	m	class:Ellipse
+fromLine	Geometry/line.py	/^    def fromLine(cls, line):$/;"	m	class:Line
+fromRay	Geometry/line.py	/^    def fromRay(cls, ray):$/;"	m	class:Line
+fromSegment	Geometry/line.py	/^    def fromSegment(cls, segment):$/;"	m	class:Line
+func	Geometry/graph.py	/^            func = lambda x: x.distanceSquared(self.cg)$/;"	f	member:Graph.sortedNodes	file:
+gamma	Geometry/line.py	/^    def gamma(self):$/;"	m	class:Ray
+gamma	Geometry/triangle.py	/^    def gamma(self):$/;"	m	class:Triangle
+gamma	Geometry/triangle2.py	/^    def gamma(self):$/;"	m	class:Triangle
+gaussian	Geometry/point.py	/^    def gaussian(cls, mu=0, sigma=1):$/;"	m	class:Point
+getf	Geometry/propgen.py	/^    def getf(self):$/;"	f	function:FloatMultiProperty	file:
+getf	Geometry/propgen.py	/^    def getf(self):$/;"	f	function:FloatProperty	file:
+h	Geometry/rectangle.py	/^    def h(self):$/;"	m	class:Rectangle
+h	Geometry/rectangle.py	/^    def h(self, newHeight):$/;"	m	class:Rectangle
+head	Geometry/line.py	/^    def head(self):$/;"	m	class:Ray
+head	Geometry/line.py	/^    def head(self, newValue):$/;"	m	class:Ray
+height	Geometry/rectangle.py	/^    def height(self):$/;"	m	class:Rectangle
+height	Geometry/rectangle.py	/^    def height(self, newHeight):$/;"	m	class:Rectangle
+heronsArea	Geometry/triangle.py	/^    def heronsArea(self):$/;"	m	class:Triangle
+heronsArea	Geometry/triangle2.py	/^    def heronsArea(self):$/;"	m	class:Triangle
+hypotenuse	Geometry/triangle.py	/^    def hypotenuse(self):$/;"	m	class:Triangle
+hypotenuse	Geometry/triangle2.py	/^    def hypotenuse(self):$/;"	m	class:Triangle
+incenter	Geometry/polygon.py	/^    def incenter(self):$/;"	m	class:Polygon
+incenter	Geometry/triangle.py	/^    def incenter(self):$/;"	m	class:Triangle
+incircle	Geometry/triangle.py	/^    def incircle(self):$/;"	m	class:Triangle
+index	Geometry/point.py	/^    def index(self, point):$/;"	m	class:PointSequence
+inradius	Geometry/triangle.py	/^    def inradius(self):$/;"	m	class:Triangle
+inradius	Geometry/triangle2.py	/^    def inradius(self):$/;"	m	class:Triangle
+inscribedInRectangle	Geometry/ellipse.py	/^    def inscribedInRectangle(cls, rectangle):$/;"	m	class:Circle
+inscribedInTriangle	Geometry/ellipse.py	/^    def inscribedInTriangle(cls, triangle):$/;"	m	class:Circle
+insert	Geometry/point.py	/^    def insert(self, index, point):$/;"	m	class:MutablePointSequence
+inset	Geometry/rectangle.py	/^    def inset(self, other, percentage):$/;"	m	class:Rectangle
+intersect	Geometry/rectangle.py	/^    def intersect(self, other):$/;"	m	class:Rectangle
+intersection	Geometry/line.py	/^    def intersection(self, other):$/;"	m	class:Line
+intersection	Geometry/line.py	/^    def intersection(self, other):$/;"	m	class:Ray
+irotate2d	Geometry/point.py	/^    def irotate2d(self, theta, origin=None, axis='z', radians=False):$/;"	m	class:Point
+isAcute	Geometry/triangle.py	/^    def isAcute(self):$/;"	m	class:Triangle
+isAcute	Geometry/triangle2.py	/^    def isAcute(self):$/;"	m	class:Triangle
+isBetween	Geometry/point.py	/^    def isBetween(self, a, b, axes='xyz'):$/;"	m	class:Point
+isCCW	Geometry/point.py	/^    def isCCW(self, b, c, axis='z'):$/;"	m	class:Point
+isCCW	Geometry/rectangle.py	/^    def isCCW(self):$/;"	m	class:Rectangle
+isCCW	Geometry/triangle.py	/^    def isCCW(self):$/;"	m	class:Triangle
+isCCW	Geometry/triangle2.py	/^    def isCCW(self):$/;"	m	class:Triangle
+isCircle	Geometry/ellipse.py	/^    def isCircle(self):$/;"	m	class:Ellipse
+isCollinear	Geometry/line.py	/^    def isCollinear(self, other):$/;"	m	class:Line
+isCollinear	Geometry/line.py	/^    def isCollinear(self, other):$/;"	m	class:Ray
+isCollinear	Geometry/point.py	/^    def isCollinear(self, b, c):$/;"	m	class:Point
+isCoplanar	Geometry/line.py	/^    def isCoplanar(self):$/;"	m	class:Line
+isEllipse	Geometry/ellipse.py	/^    def isEllipse(self):$/;"	m	class:Ellipse
+isEquilateral	Geometry/triangle.py	/^    def isEquilateral(self):$/;"	m	class:Triangle
+isEquilateral	Geometry/triangle2.py	/^    def isEquilateral(self):$/;"	m	class:Triangle
+isHorizontal	Geometry/line.py	/^    def isHorizontal(self):$/;"	m	class:Line
+isIsosceles	Geometry/triangle.py	/^    def isIsosceles(self):$/;"	m	class:Triangle
+isIsosceles	Geometry/triangle2.py	/^    def isIsosceles(self):$/;"	m	class:Triangle
+isNormal	Geometry/line.py	/^    def isNormal(self, other):$/;"	m	class:Line
+isObtuse	Geometry/triangle.py	/^    def isObtuse(self):$/;"	m	class:Triangle
+isObtuse	Geometry/triangle2.py	/^    def isObtuse(self):$/;"	m	class:Triangle
+isOrigin	Geometry/point.py	/^    def isOrigin(self):$/;"	m	class:Point
+isParallel	Geometry/line.py	/^    def isParallel(self, other):$/;"	m	class:Line
+isParallel	Geometry/line.py	/^    def isParallel(self, other):$/;"	m	class:Ray
+isRectangle	Geometry/rectangle.py	/^    def isRectangle(self):$/;"	m	class:Rectangle
+isRight	Geometry/triangle.py	/^    def isRight(self):$/;"	m	class:Triangle
+isRight	Geometry/triangle2.py	/^    def isRight(self):$/;"	m	class:Triangle
+isScalene	Geometry/triangle.py	/^    def isScalene(self):$/;"	m	class:Triangle
+isScalene	Geometry/triangle2.py	/^    def isScalene(self):$/;"	m	class:Triangle
+isSquare	Geometry/rectangle.py	/^    def isSquare(self):$/;"	m	class:Rectangle
+isVertical	Geometry/line.py	/^    def isVertical(self):$/;"	m	class:Line
+isosceles	Geometry/triangle.py	/^    def isosceles(cls, origin=None, base=1, alpha=90):$/;"	m	class:Triangle
+labels	Geometry/point.py	/^    def labels(self):$/;"	m	class:PointSequence
+length	Geometry/line.py	/^    def length(self):$/;"	m	class:Line
+length	Geometry/line.py	/^    def length(self):$/;"	m	class:Segment
+linearEccentricity	Geometry/ellipse.py	/^    def linearEccentricity(self):$/;"	m	class:Ellipse
+long_description	setup.py	/^long_description = '''$/;"	v
+m	Geometry/line.py	/^    def m(self):$/;"	m	class:Line
+majorAxis	Geometry/ellipse.py	/^    def majorAxis(self):$/;"	m	class:Ellipse
+majorRadius	Geometry/ellipse.py	/^    def majorRadius(self):$/;"	m	class:Ellipse
+mapping	Geometry/rectangle.py	/^    def mapping(self):$/;"	m	class:Rectangle
+maxX	Geometry/rectangle.py	/^    def maxX(self):$/;"	m	class:Rectangle
+maxY	Geometry/rectangle.py	/^    def maxY(self):$/;"	m	class:Rectangle
+midAB	Geometry/rectangle.py	/^    def midAB(self):$/;"	m	class:Rectangle
+midAB	Geometry/rectangle.py	/^    def midAB(self, newMidAB):$/;"	m	class:Rectangle
+midAD	Geometry/rectangle.py	/^    def midAD(self):$/;"	m	class:Rectangle
+midAD	Geometry/rectangle.py	/^    def midAD(self, newMidAD):$/;"	m	class:Rectangle
+midBC	Geometry/rectangle.py	/^    def midBC(self):$/;"	m	class:Rectangle
+midBC	Geometry/rectangle.py	/^    def midBC(self, newMidBC):$/;"	m	class:Rectangle
+midCD	Geometry/rectangle.py	/^    def midCD(self):$/;"	m	class:Rectangle
+midCD	Geometry/rectangle.py	/^    def midCD(self, newMidCD):$/;"	m	class:Rectangle
+midX	Geometry/rectangle.py	/^    def midX(self):$/;"	m	class:Rectangle
+midY	Geometry/rectangle.py	/^    def midY(self):$/;"	m	class:Rectangle
+midpoint	Geometry/line.py	/^    def midpoint(self):$/;"	m	class:Segment
+midpoint	Geometry/point.py	/^    def midpoint(self, other):$/;"	m	class:Point
+midpoints	Geometry/polygon.py	/^    def midpoints(self):$/;"	m	class:Polygon
+midpoints	Geometry/triangle.py	/^    def midpoints(self):$/;"	m	class:Triangle
+minX	Geometry/rectangle.py	/^    def minX(self):$/;"	m	class:Rectangle
+minY	Geometry/rectangle.py	/^    def minY(self):$/;"	m	class:Rectangle
+minorAxis	Geometry/ellipse.py	/^    def minorAxis(self):$/;"	m	class:Ellipse
+minorRadius	Geometry/ellipse.py	/^    def minorRadius(self):$/;"	m	class:Ellipse
+nearly_eq	Geometry/constants.py	/^def nearly_eq(valA, valB, maxf=None, minf=None, epsilon=None):$/;"	f
+nearly_zero	Geometry/constants.py	/^def nearly_zero(value, minf=None, epsilon=None):$/;"	f
+nodes	Geometry/graph.py	/^    def nodes(self):$/;"	m	class:Graph
+normal	Geometry/line.py	/^    def normal(self):$/;"	m	class:Line
+normal	Geometry/line.py	/^    def normal(self):$/;"	m	class:Ray
+normal	Geometry/line.py	/^    def normal(self):$/;"	m	class:Segment
+origin	Geometry/point.py	/^    def origin(cls):$/;"	m	class:Point
+origin	Geometry/rectangle.py	/^    def origin(self):$/;"	m	class:Rectangle
+origin	Geometry/rectangle.py	/^    def origin(self, newOrigin):$/;"	m	class:Rectangle
+orthocenter	Geometry/triangle.py	/^    def orthocenter(self):$/;"	m	class:Triangle
+orthocenter	Geometry/triangle2.py	/^    def orthocenter(self):$/;"	m	class:Triangle
+pairs	Geometry/point.py	/^    def pairs(self,xy=None):$/;"	m	class:PointSequence
+perimeter	Geometry/polygon.py	/^    def perimeter(self):$/;"	m	class:Polygon
+perimeter	Geometry/rectangle.py	/^    def perimeter(self):$/;"	m	class:Rectangle
+perimeter	Geometry/triangle.py	/^    def perimeter(self):$/;"	m	class:Triangle
+pointAt	Geometry/line.py	/^    def pointAt(self, t):$/;"	m	class:Line
+pop	Geometry/point.py	/^    def pop(self, index=-1):$/;"	m	class:MutablePointSequence
+prop	Geometry/propgen.py	/^    def prop(self):$/;"	f	function:MultiObjectProperty	file:
+prop	Geometry/propgen.py	/^    def prop(self, newValues):$/;"	f	function:MultiObjectProperty	file:
+radiansBetween	Geometry/line.py	/^    def radiansBetween(self, other):$/;"	m	class:Line
+radius	Geometry/ellipse.py	/^    def radius(self):$/;"	m	class:Circle
+radius	Geometry/ellipse.py	/^    def radius(self):$/;"	m	class:Ellipse
+radius	Geometry/ellipse.py	/^    def radius(self, newValue):$/;"	m	class:Circle
+radius	Geometry/ellipse.py	/^    def radius(self, newValue):$/;"	m	class:Ellipse
+random	Geometry/point.py	/^    def random(cls, origin=None, radius=1):$/;"	m	class:Point
+random	Geometry/triangle.py	/^    def random(cls, origin=None, radius=1):$/;"	m	class:Triangle
+randomGraph	Geometry/graph.py	/^    def randomGraph(cls, radius, nodes, origin=None):$/;"	m	class:Graph
+randomLocation	Geometry/rectangle.py	/^    def randomLocation(cls, radius, width, height, origin=None):$/;"	m	class:Rectangle
+randomSize	Geometry/rectangle.py	/^    def randomSize(cls, widthLimits, heightLimits, origin=None):$/;"	m	class:Rectangle
+randomSizeAndLocation	Geometry/rectangle.py	/^    def randomSizeAndLocation(cls, radius, widthLimits,$/;"	m	class:Rectangle
+register	Makefile	/^register:$/;"	t
+remove	Geometry/point.py	/^    def remove(self, point):$/;"	m	class:MutablePointSequence
+reverse	Geometry/point.py	/^    def reverse(self):$/;"	m	class:MutablePointSequence
+rotate	Geometry/point.py	/^    def rotate(self, theta_x, theta_y, theta_z, origin=None, radians=False):$/;"	m	class:Point
+rotate	Geometry/tests/test_point.py	/^    def rotate(self, theta_x, theta_y, theta_z, origin=None, radians=False):$/;"	m	class:PointTestCase
+rotate2d	Geometry/point.py	/^    def rotate2d(self, theta, origin=None, axis='z', radians=False):$/;"	m	class:Point
+scale	Geometry/rectangle.py	/^    def scale(self, dx=1.0, dy=1.0):$/;"	m	class:Rectangle
+sdist	Makefile	/^sdist:$/;"	t
+segments	Geometry/triangle.py	/^    def segments(self):$/;"	m	class:Triangle
+semiperimeter	Geometry/polygon.py	/^    def semiperimeter(self):$/;"	m	class:Polygon
+semiperimeter	Geometry/triangle.py	/^    def semiperimeter(self):$/;"	m	class:Triangle
+setf	Geometry/propgen.py	/^        def setf(self, newValue):$/;"	f	function:FloatProperty	file:
+setf	Geometry/propgen.py	/^    def setf(self, newValues):$/;"	f	function:FloatMultiProperty	file:
+sides	Geometry/polygon.py	/^    def sides(self):$/;"	m	class:Polygon
+sides	Geometry/triangle.py	/^    def sides(self):$/;"	m	class:Triangle
+sides	Geometry/triangle2.py	/^    def sides(self):$/;"	m	class:Triangle
+sortedNodes	Geometry/graph.py	/^    def sortedNodes(self, func=None):$/;"	m	class:Graph
+swap	Geometry/triangle.py	/^    def swap(self, side='AB', inplace=False):$/;"	m	class:Triangle
+t	Geometry/line.py	/^    def t(self, point):$/;"	m	class:Line
+tag	Makefile	/^tag:$/;"	t
+tail	Geometry/line.py	/^    def tail(self):$/;"	m	class:Ray
+tail	Geometry/line.py	/^    def tail(self, newValue):$/;"	m	class:Ray
+test	Makefile	/^test:$/;"	t
+test-install	Makefile	/^test-install:$/;"	t
+test-upgrade	Makefile	/^test-upgrade:$/;"	t
+testCircleAreaAttributeGetter	Geometry/tests/test_circle.py	/^    def testCircleAreaAttributeGetter(self):$/;"	m	class:CircleAttributeGettersTestCase
+testCircleCenterAttributeGetter	Geometry/tests/test_circle.py	/^    def testCircleCenterAttributeGetter(self):$/;"	m	class:CircleAttributeGettersTestCase
+testCircleCircumfrenceAttributeGetter	Geometry/tests/test_circle.py	/^    def testCircleCircumfrenceAttributeGetter(self):$/;"	m	class:CircleAttributeGettersTestCase
+testCircleContainsCircleInstanceMethod	Geometry/tests/test_circle.py	/^    def testCircleContainsCircleInstanceMethod(self):$/;"	m	class:CircleInstanceMethodsTestCase
+testCircleContainsPointInstanceMethod	Geometry/tests/test_circle.py	/^    def testCircleContainsPointInstanceMethod(self):$/;"	m	class:CircleInstanceMethodsTestCase
+testCircleContainsSegmentInstanceMethod	Geometry/tests/test_circle.py	/^    def testCircleContainsSegmentInstanceMethod(self):$/;"	m	class:CircleInstanceMethodsTestCase
+testCircleCreationWithAllKeywords	Geometry/tests/test_circle.py	/^    def testCircleCreationWithAllKeywords(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithCenterAndRadiusArguments	Geometry/tests/test_circle.py	/^    def testCircleCreationWithCenterAndRadiusArguments(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithEmptyContainersAsCenterArgument	Geometry/tests/test_circle.py	/^    def testCircleCreationWithEmptyContainersAsCenterArgument(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithKeywordsReversed	Geometry/tests/test_circle.py	/^    def testCircleCreationWithKeywordsReversed(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithNoArgumentsOrKeywords	Geometry/tests/test_circle.py	/^    def testCircleCreationWithNoArgumentsOrKeywords(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithOnlyCenterArgument	Geometry/tests/test_circle.py	/^    def testCircleCreationWithOnlyCenterArgument(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithOnlyCenterKeyword	Geometry/tests/test_circle.py	/^    def testCircleCreationWithOnlyCenterKeyword(self):$/;"	m	class:CircleInitializationTestCase
+testCircleCreationWithOnlyRadiusKeyword	Geometry/tests/test_circle.py	/^    def testCircleCreationWithOnlyRadiusKeyword(self):$/;"	m	class:CircleInitializationTestCase
+testCircleDiameterAttributeGetter	Geometry/tests/test_circle.py	/^    def testCircleDiameterAttributeGetter(self):$/;"	m	class:CircleAttributeGettersTestCase
+testCircleDoesIntersectCircleInstanceMethod	Geometry/tests/test_circle.py	/^    def testCircleDoesIntersectCircleInstanceMethod(self):$/;"	m	class:CircleInstanceMethodsTestCase
+testCircleDoesIntersectGarbageInstanceMethod	Geometry/tests/test_circle.py	/^    def testCircleDoesIntersectGarbageInstanceMethod(self):$/;"	m	class:CircleInstanceMethodsTestCase
+testCircleDoesIntersectLineInstanceMethod	Geometry/tests/test_circle.py	/^    def testCircleDoesIntersectLineInstanceMethod(self):$/;"	m	class:CircleInstanceMethodsTestCase
+testCircleInscribedInRectangle	Geometry/tests/test_circle.py	/^    def testCircleInscribedInRectangle(self):$/;"	m	class:CircleClassmethodsTestCase
+testCircleInscribedInTriangle	Geometry/tests/test_circle.py	/^    def testCircleInscribedInTriangle(self):$/;"	m	class:CircleClassmethodsTestCase
+testCircleRadiusAttributeGetter	Geometry/tests/test_circle.py	/^    def testCircleRadiusAttributeGetter(self):$/;"	m	class:CircleAttributeGettersTestCase
+testCircleSettingCenterAttribute	Geometry/tests/test_circle.py	/^    def testCircleSettingCenterAttribute(self):$/;"	m	class:CircleAttributeSettersTestCase
+testCircleSettingRadiusAttributeWithNonNumbers	Geometry/tests/test_circle.py	/^    def testCircleSettingRadiusAttributeWithNonNumbers(self):$/;"	m	class:CircleAttributeSettersTestCase
+testCircleSettingRadiusAttributeWithNumbers	Geometry/tests/test_circle.py	/^    def testCircleSettingRadiusAttributeWithNumbers(self):$/;"	m	class:CircleAttributeSettersTestCase
+testEllipseCenterGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseCenterGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseContainsInstanceMethodWithEllipseArgument	Geometry/tests/test_ellipse.py	/^    def testEllipseContainsInstanceMethodWithEllipseArgument(self):$/;"	m	class:EllipseTestCase
+testEllipseContainsInstanceMethodWithPointArgument	Geometry/tests/test_ellipse.py	/^    def testEllipseContainsInstanceMethodWithPointArgument(self):$/;"	m	class:EllipseTestCase
+testEllipseContainsInstanceMethodWithSegmentArgument	Geometry/tests/test_ellipse.py	/^    def testEllipseContainsInstanceMethodWithSegmentArgument(self):$/;"	m	class:EllipseTestCase
+testEllipseContainsInstanceMethodWithWrongTypeArgument	Geometry/tests/test_ellipse.py	/^    def testEllipseContainsInstanceMethodWithWrongTypeArgument(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithAllKeywords	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithAllKeywords(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithCenterAndRadii	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithCenterAndRadii(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithCenterAndXRadius	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithCenterAndXRadius(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithNoArgumentsOrKeywords	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithNoArgumentsOrKeywords(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithOnlyCenterArgument	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithOnlyCenterArgument(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithOnlyCenterKeyword	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithOnlyCenterKeyword(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithOnlyRadiusKeywords	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithOnlyRadiusKeywords(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithOnlyXRadiusKeyword	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithOnlyXRadiusKeyword(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithOnlyYRadiusKeyword	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithOnlyYRadiusKeyword(self):$/;"	m	class:EllipseTestCase
+testEllipseCreationWithOnlyZRadiusKeyword	Geometry/tests/test_ellipse.py	/^    def testEllipseCreationWithOnlyZRadiusKeyword(self):$/;"	m	class:EllipseTestCase
+testEllipseEccentricityGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseEccentricityGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseEqualityInstanceMethod	Geometry/tests/test_ellipse.py	/^    def testEllipseEqualityInstanceMethod(self):$/;"	m	class:EllipseTestCase
+testEllipseFociGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseFociGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseFocus0Getter	Geometry/tests/test_ellipse.py	/^    def testEllipseFocus0Getter(self):$/;"	m	class:EllipseTestCase
+testEllipseFocus1Getter	Geometry/tests/test_ellipse.py	/^    def testEllipseFocus1Getter(self):$/;"	m	class:EllipseTestCase
+testEllipseIsCircleProperty	Geometry/tests/test_ellipse.py	/^    def testEllipseIsCircleProperty(self):$/;"	m	class:EllipseTestCase
+testEllipseIsEllipseProperty	Geometry/tests/test_ellipse.py	/^    def testEllipseIsEllipseProperty(self):$/;"	m	class:EllipseTestCase
+testEllipseLinearEccentricityGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseLinearEccentricityGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseMajorAxisGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseMajorAxisGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseMajorRadiusGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseMajorRadiusGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseMinorAxisGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseMinorAxisGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseMinorRadiusGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseMinorRadiusGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseNegativeAntipodalPointOnMajorAxis	Geometry/tests/test_ellipse.py	/^    def testEllipseNegativeAntipodalPointOnMajorAxis(self):$/;"	m	class:EllipseTestCase
+testEllipseNegativeAntipodalPointOnMinorAxis	Geometry/tests/test_ellipse.py	/^    def testEllipseNegativeAntipodalPointOnMinorAxis(self):$/;"	m	class:EllipseTestCase
+testEllipsePositiveAntipodalPointOnMajorAxis	Geometry/tests/test_ellipse.py	/^    def testEllipsePositiveAntipodalPointOnMajorAxis(self):$/;"	m	class:EllipseTestCase
+testEllipsePositiveAntipodalPointOnMinorAxis	Geometry/tests/test_ellipse.py	/^    def testEllipsePositiveAntipodalPointOnMinorAxis(self):$/;"	m	class:EllipseTestCase
+testEllipseSettingCenterAttribute	Geometry/tests/test_ellipse.py	/^    def testEllipseSettingCenterAttribute(self):$/;"	m	class:EllipseTestCase
+testEllipseSettingXRadiusWithNonNumbers	Geometry/tests/test_ellipse.py	/^    def testEllipseSettingXRadiusWithNonNumbers(self):$/;"	m	class:EllipseTestCase
+testEllipseSettingXRadiusWithNumbers	Geometry/tests/test_ellipse.py	/^    def testEllipseSettingXRadiusWithNumbers(self):$/;"	m	class:EllipseTestCase
+testEllipseSettingYRadiusWithNonNumbers	Geometry/tests/test_ellipse.py	/^    def testEllipseSettingYRadiusWithNonNumbers(self):$/;"	m	class:EllipseTestCase
+testEllipseSettingYRadiusWithNumbers	Geometry/tests/test_ellipse.py	/^    def testEllipseSettingYRadiusWithNumbers(self):$/;"	m	class:EllipseTestCase
+testEllipseSettingZRadiusWithNonNumbers	Geometry/tests/test_ellipse.py	/^    def testEllipseSettingZRadiusWithNonNumbers(self):$/;"	m	class:EllipseTestCase
+testEllipseVerticesGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseVerticesGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseXAxisIsMajorGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseXAxisIsMajorGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseXAxisIsMinorGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseXAxisIsMinorGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseXRadiusGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseXRadiusGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseYAxisIsMajorGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseYAxisIsMajorGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseYAxisIsMinorGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseYAxisIsMinorGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseYRadiusGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseYRadiusGetter(self):$/;"	m	class:EllipseTestCase
+testEllipseZRadiusGetter	Geometry/tests/test_ellipse.py	/^    def testEllipseZRadiusGetter(self):$/;"	m	class:EllipseTestCase
+testLineCreation	Geometry/tests/test_line.py	/^    def testLineCreation(self):$/;"	m	class:LineTestCase
+testObjects	Geometry/tests/test_point.py	/^    def testObjects(self, value=0, *args):$/;"	m	class:PointTestCase
+testOriginPointCreation	Geometry/tests/test_point.py	/^    def testOriginPointCreation(self):$/;"	m	class:PointTestCase
+testPointClassmethod_gaussian	Geometry/tests/test_point.py	/^    def testPointClassmethod_gaussian(self):$/;"	m	class:PointTestCase
+testPointClassmethod_random	Geometry/tests/test_point.py	/^    def testPointClassmethod_random(self):$/;"	m	class:PointTestCase
+testPointClassmethod_unit	Geometry/tests/test_point.py	/^    def testPointClassmethod_unit(self):$/;"	m	class:PointTestCase
+testPointClassmethod_units	Geometry/tests/test_point.py	/^    def testPointClassmethod_units(self):$/;"	m	class:PointTestCase
+testPointCreation	Geometry/tests/test_point.py	/^    def testPointCreation(self):$/;"	m	class:PointTestCase
+testPointMethod_absolute	Geometry/tests/test_point.py	/^    def testPointMethod_absolute(self):$/;"	m	class:PointTestCase
+testPointMethod_addition	Geometry/tests/test_point.py	/^    def testPointMethod_addition(self):$/;"	m	class:PointTestCase
+testPointMethod_bitwise_and	Geometry/tests/test_point.py	/^    def testPointMethod_bitwise_and(self):$/;"	m	class:PointTestCase
+testPointMethod_bitwise_or	Geometry/tests/test_point.py	/^    def testPointMethod_bitwise_or(self):$/;"	m	class:PointTestCase
+testPointMethod_bitwise_xor	Geometry/tests/test_point.py	/^    def testPointMethod_bitwise_xor(self):$/;"	m	class:PointTestCase
+testPointMethod_ccw	Geometry/tests/test_point.py	/^    def testPointMethod_ccw(self):$/;"	m	class:PointTestCase
+testPointMethod_ceiling	Geometry/tests/test_point.py	/^    def testPointMethod_ceiling(self):$/;"	m	class:PointTestCase
+testPointMethod_cross_product	Geometry/tests/test_point.py	/^    def testPointMethod_cross_product(self):$/;"	m	class:PointTestCase
+testPointMethod_distance	Geometry/tests/test_point.py	/^    def testPointMethod_distance(self):$/;"	m	class:PointTestCase
+testPointMethod_distanceSquared	Geometry/tests/test_point.py	/^    def testPointMethod_distanceSquared(self):$/;"	m	class:PointTestCase
+testPointMethod_dot_product	Geometry/tests/test_point.py	/^    def testPointMethod_dot_product(self):$/;"	m	class:PointTestCase
+testPointMethod_eq	Geometry/tests/test_point.py	/^    def testPointMethod_eq(self):$/;"	m	class:PointTestCase
+testPointMethod_floor	Geometry/tests/test_point.py	/^    def testPointMethod_floor(self):$/;"	m	class:PointTestCase
+testPointMethod_floordivision	Geometry/tests/test_point.py	/^    def testPointMethod_floordivision(self):$/;"	m	class:PointTestCase
+testPointMethod_hash	Geometry/tests/test_point.py	/^    def testPointMethod_hash(self):$/;"	m	class:PointTestCase
+testPointMethod_invert	Geometry/tests/test_point.py	/^    def testPointMethod_invert(self):$/;"	m	class:PointTestCase
+testPointMethod_irotate2d	Geometry/tests/test_point.py	/^    def testPointMethod_irotate2d(self):$/;"	m	class:PointTestCase
+testPointMethod_isBetween	Geometry/tests/test_point.py	/^    def testPointMethod_isBetween(self):$/;"	m	class:PointTestCase
+testPointMethod_isCCW	Geometry/tests/test_point.py	/^    def testPointMethod_isCCW(self):$/;"	m	class:PointTestCase
+testPointMethod_isCollinear	Geometry/tests/test_point.py	/^    def testPointMethod_isCollinear(self):$/;"	m	class:PointTestCase
+testPointMethod_iter	Geometry/tests/test_point.py	/^    def testPointMethod_iter(self):$/;"	m	class:PointTestCase
+testPointMethod_leftshift	Geometry/tests/test_point.py	/^    def testPointMethod_leftshift(self):$/;"	m	class:PointTestCase
+testPointMethod_len	Geometry/tests/test_point.py	/^    def testPointMethod_len(self):$/;"	m	class:PointTestCase
+testPointMethod_midpoint	Geometry/tests/test_point.py	/^    def testPointMethod_midpoint(self):$/;"	m	class:PointTestCase
+testPointMethod_modulus	Geometry/tests/test_point.py	/^    def testPointMethod_modulus(self):$/;"	m	class:PointTestCase
+testPointMethod_multiplication	Geometry/tests/test_point.py	/^    def testPointMethod_multiplication(self):$/;"	m	class:PointTestCase
+testPointMethod_negative	Geometry/tests/test_point.py	/^    def testPointMethod_negative(self):$/;"	m	class:PointTestCase
+testPointMethod_next	Geometry/tests/test_point.py	/^    def testPointMethod_next(self):$/;"	m	class:PointTestCase
+testPointMethod_positive	Geometry/tests/test_point.py	/^    def testPointMethod_positive(self):$/;"	m	class:PointTestCase
+testPointMethod_power	Geometry/tests/test_point.py	/^    def testPointMethod_power(self):$/;"	m	class:PointTestCase
+testPointMethod_rightshift	Geometry/tests/test_point.py	/^    def testPointMethod_rightshift(self):$/;"	m	class:PointTestCase
+testPointMethod_rotate2d	Geometry/tests/test_point.py	/^    def testPointMethod_rotate2d(self):$/;"	m	class:PointTestCase
+testPointMethod_round	Geometry/tests/test_point.py	/^    def testPointMethod_round(self):$/;"	m	class:PointTestCase
+testPointMethod_subtraction	Geometry/tests/test_point.py	/^    def testPointMethod_subtraction(self):$/;"	m	class:PointTestCase
+testPointMethod_truedivision	Geometry/tests/test_point.py	/^    def testPointMethod_truedivision(self):$/;"	m	class:PointTestCase
+testPointMultiplePropertyGetters	Geometry/tests/test_point.py	/^    def testPointMultiplePropertyGetters(self):$/;"	m	class:PointTestCase
+testPointMultiplePropertySettersComplex	Geometry/tests/test_point.py	/^    def testPointMultiplePropertySettersComplex(self):$/;"	m	class:PointTestCase
+testPointMultiplePropertySettersSimple	Geometry/tests/test_point.py	/^    def testPointMultiplePropertySettersSimple(self):$/;"	m	class:PointTestCase
+testPointPropertyGetters	Geometry/tests/test_point.py	/^    def testPointPropertyGetters(self):$/;"	m	class:PointTestCase
+testPointPropertySettersComplex	Geometry/tests/test_point.py	/^    def testPointPropertySettersComplex(self):$/;"	m	class:PointTestCase
+testPointPropertySettersSimple	Geometry/tests/test_point.py	/^    def testPointPropertySettersSimple(self):$/;"	m	class:PointTestCase
+testTriangleClassmethodUnit	Geometry/tests/test_triangle.py	/^    def testTriangleClassmethodUnit(self):$/;"	m	class:TriangleTestCase
+testTriangleCreationWithArguments	Geometry/tests/test_triangle.py	/^    def testTriangleCreationWithArguments(self):$/;"	m	class:TriangleTestCase
+testTriangleCreationWithoutArguments	Geometry/tests/test_triangle.py	/^    def testTriangleCreationWithoutArguments(self):$/;"	m	class:TriangleTestCase
+testTriangleMethod_congruent	Geometry/tests/test_triangle.py	/^    def testTriangleMethod_congruent(self):$/;"	m	class:TriangleTestCase
+testTriangleMethod_doesIntersect	Geometry/tests/test_triangle.py	/^    def testTriangleMethod_doesIntersect(self):$/;"	m	class:TriangleTestCase
+testTriangleOperation__contains__	Geometry/tests/test_triangle.py	/^    def testTriangleOperation__contains__(self):$/;"	m	class:TriangleTestCase
+testTriangleOperation__eq__	Geometry/tests/test_triangle.py	/^    def testTriangleOperation__eq__(self):$/;"	m	class:TriangleTestCase
+testTriangleProperties_AlphaBetaGamma	Geometry/tests/test_triangle.py	/^    def testTriangleProperties_AlphaBetaGamma(self):$/;"	m	class:TriangleTestCase
+testTriangleProperties_abc	Geometry/tests/test_triangle.py	/^    def testTriangleProperties_abc(self):$/;"	m	class:TriangleTestCase
+testTriangleProperties_sides	Geometry/tests/test_triangle.py	/^    def testTriangleProperties_sides(self):$/;"	m	class:TriangleTestCase
+testTrianglePropertySetters	Geometry/tests/test_triangle.py	/^    def testTrianglePropertySetters(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_Circumcenter	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_Circumcenter(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_Circumcircle	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_Circumcircle(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_Circumradius	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_Circumradius(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_Getters	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_Getters(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_Hypotenuse	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_Hypotenuse(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_MultiSetters	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_MultiSetters(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_Orthocenter	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_Orthocenter(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_edges	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_edges(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_isCCW_flip_ccw_area	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_isCCW_flip_ccw_area(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_isEquilateral_isIsoceles_isAcute	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_isEquilateral_isIsoceles_isAcute(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_isIsosceles	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_isIsosceles(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_isObtuse	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_isObtuse(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_isRight	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_isRight(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_isScalene	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_isScalene(self):$/;"	m	class:TriangleTestCase
+testTriangleProperty_perimeter_semiperimeter	Geometry/tests/test_triangle.py	/^    def testTriangleProperty_perimeter_semiperimeter(self):$/;"	m	class:TriangleTestCase
+union	Geometry/rectangle.py	/^    def union(self, other):$/;"	m	class:Rectangle
+unit	Geometry/point.py	/^    def unit(cls, A, B):$/;"	m	class:Point
+unit	Geometry/triangle.py	/^    def unit(cls):$/;"	m	class:Triangle
+unit	Geometry/triangle2.py	/^    def unit(cls,scale=1):$/;"	m	class:Triangle
+units	Geometry/line.py	/^    def units(cls):$/;"	m	class:Line
+units	Geometry/point.py	/^    def units(cls, scale=1):$/;"	m	class:Point
+update	Makefile	/^update:$/;"	t
+upload	Makefile	/^upload:$/;"	t
+version	setup.py	/^        version = f.read()[:-1]$/;"	v
+version	setup.py	/^    version = '0.0.0'$/;"	v
+vertexNames	Geometry/triangle.py	/^    vertexNames = 'ABC'$/;"	v	class:Triangle
+vertices	Geometry/ellipse.py	/^    def vertices(self):$/;"	m	class:Ellipse
+vertices	Geometry/point.py	/^    def vertices(self):$/;"	m	class:PointSequence
+vertices	Geometry/triangle.py	/^    def vertices(self):$/;"	m	class:Triangle
+vertices	Geometry/triangle.py	/^    def vertices(self, iterable):$/;"	m	class:Triangle
+volume	Geometry/ellipse.py	/^    def volume(self):$/;"	m	class:Sphere
+w	Geometry/point.py	/^    w = FloatProperty('w',$/;"	v	class:Point
+w	Geometry/rectangle.py	/^    def w(self):$/;"	m	class:Rectangle
+w	Geometry/rectangle.py	/^    def w(self, newWidth):$/;"	m	class:Rectangle
+wheel	Makefile	/^wheel:$/;"	t
+width	Geometry/rectangle.py	/^    def width(self):$/;"	m	class:Rectangle
+width	Geometry/rectangle.py	/^    def width(self, newWidth):$/;"	m	class:Rectangle
+withAngles	Geometry/triangle.py	/^    def withAngles(cls, origin=None, base=1, alpha=None,$/;"	m	class:Triangle
+withAngles	Geometry/triangle2.py	/^    def withAngles(cls, origin=None, base=1, alpha=None,$/;"	m	class:Triangle
+withSides	Geometry/triangle.py	/^    def withSides(cls, origin=None, a=1, b=1, c=1):$/;"	m	class:Triangle
+withSides	Geometry/triangle2.py	/^    def withSides(cls, origin=None, a=1, b=1, c=1):$/;"	m	class:Triangle
+x	Geometry/point.py	/^    x = FloatProperty('x', docs='X axis coordinate, float.')$/;"	v	class:Point
+x	Geometry/rectangle.py	/^    def x(self):$/;"	m	class:Rectangle
+x	Geometry/rectangle.py	/^    def x(self, newX):$/;"	m	class:Rectangle
+xAxisIsMajor	Geometry/ellipse.py	/^    def xAxisIsMajor(self):$/;"	m	class:Ellipse
+xAxisIsMinor	Geometry/ellipse.py	/^    def xAxisIsMinor(self):$/;"	m	class:Ellipse
+xy	Geometry/point.py	/^    xy = FloatMultiProperty('xy', docs='A list of X and Y coordinates.')$/;"	v	class:Point
+xy	Geometry/rectangle.py	/^    def xy(self):$/;"	m	class:Rectangle
+xy	Geometry/rectangle.py	/^    def xy(self, newXY):$/;"	m	class:Rectangle
+xyz	Geometry/point.py	/^    xyz = FloatMultiProperty('xyz',$/;"	v	class:Point
+xyz	Geometry/rectangle.py	/^    def xyz(self):$/;"	m	class:Rectangle
+xyz	Geometry/rectangle.py	/^    def xyz(self, newXYZ):$/;"	m	class:Rectangle
+xyzw	Geometry/point.py	/^    xyzw = FloatMultiProperty('xyzw',$/;"	v	class:Point
+xz	Geometry/point.py	/^    xz = FloatMultiProperty('xz', docs='A list of X and Z coordinates.')$/;"	v	class:Point
+xz	Geometry/rectangle.py	/^    def xz(self):$/;"	m	class:Rectangle
+xz	Geometry/rectangle.py	/^    def xz(self, newXZ):$/;"	m	class:Rectangle
+y	Geometry/point.py	/^    y = FloatProperty('y', docs='Y axis coordinate, float.')$/;"	v	class:Point
+y	Geometry/rectangle.py	/^    def y(self):$/;"	m	class:Rectangle
+y	Geometry/rectangle.py	/^    def y(self, newY):$/;"	m	class:Rectangle
+yAxisIsMajor	Geometry/ellipse.py	/^    def yAxisIsMajor(self):$/;"	m	class:Ellipse
+yAxisIsMinor	Geometry/ellipse.py	/^    def yAxisIsMinor(self):$/;"	m	class:Ellipse
+yx	Geometry/point.py	/^    yx = FloatMultiProperty('yx', docs='A list of Y and X coordinates.')$/;"	v	class:Point
+yz	Geometry/point.py	/^    yz = FloatMultiProperty('yz', docs='A list of Y and Z coordinates.')$/;"	v	class:Point
+yz	Geometry/rectangle.py	/^    def yz(self):$/;"	m	class:Rectangle
+yz	Geometry/rectangle.py	/^    def yz(self, newYZ):$/;"	m	class:Rectangle
+z	Geometry/point.py	/^    z = FloatProperty('z', docs='Z axis coordinate, float.')$/;"	v	class:Point
+z	Geometry/rectangle.py	/^    def z(self):$/;"	m	class:Rectangle
+z	Geometry/rectangle.py	/^    def z(self, newZ):$/;"	m	class:Rectangle
+zorder	Geometry/rectangle.py	/^    def zorder(self, other):$/;"	m	class:Rectangle
+zx	Geometry/point.py	/^    zx = FloatMultiProperty('zx', docs='A list of Z and X coordinates.')$/;"	v	class:Point
+zy	Geometry/point.py	/^    zy = FloatMultiProperty('zy', docs='A list of Z and Y coordinates.')$/;"	v	class:Point

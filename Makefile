@@ -2,7 +2,7 @@ TARGET = Geometry
 
 MAJOR = 0
 MINOR = 0
-POINT = 23
+POINT = 24
 
 VERSION = ${MAJOR}.${MINOR}.${POINT}
 QVERSION = "'${VERSION}'"

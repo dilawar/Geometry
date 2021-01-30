@@ -1,6 +1,6 @@
 # Geometry - Python Geometry Package
 
-Version: 0.0.23
+Version: 0.0.24
 
 Geometry is a python package for performing computational
 geometry. Starting with the humble point, the package implements
