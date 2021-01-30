@@ -432,7 +432,7 @@ class Line(collections.Mapping):
         # Numerical issues may cause x to be larger than 1.0 or smaller than
         # -1.0
         x = 1.0 if x > 1.0 else x
-        x = -1.0 if x < 1.0 else x
+        x = -1.0 if x < -1.0 else x
         return math.acos(x)
 
     def degreesBetween(self, other):
